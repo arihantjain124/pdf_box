@@ -1,0 +1,528 @@
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®)
+Non-Small Cell Lung 
+Cancer
+Version 1.2022 — December 7, 2021
+Continue
+NCCN.org
+NCCN Guidelines for Patients® available at www.nccn.org/patients
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+Continue
+NCCN Guidelines Panel Disclosures
+*David S. Ettinger, MD/Chair † 
+The Sidney Kimmel Comprehensive  
+Cancer Center at Johns Hopkins
+*Douglas E. Wood, MD/Vice Chair ¶ 
+Fred Hutchinson Cancer Research Center/
+Seattle Cancer Care Alliance
+Dara L. Aisner, MD, PhD ≠ 
+University of Colorado Cancer Center
+Wallace Akerley, MD † 
+Huntsman Cancer Institute  
+at the University of Utah
+Jessica R. Bauman, MD ‡ † 
+Fox Chase Cancer Center
+Ankit Bharat, MD ¶ 
+Robert H. Lurie Comprehensive Cancer Center  
+of Northwestern University
+Debora S. Bruno, MD, MS † 
+Case Comprehensive Cancer Center/ 
+University Hospitals Seidman Cancer Center  
+and Cleveland Clinic Taussig Cancer Institute
+Joe Y. Chang, MD, PhD § 
+The University of Texas  
+MD Anderson Cancer Center
+Lucian R. Chirieac, MD ≠ 
+Dana-Farber/Brigham and Women’s  
+Cancer Center
+Thomas A. D’Amico, MD ¶ 
+Duke Cancer Institute
+Malcolm DeCamp, MD ¶ 
+University of Wisconsin Carbone Cancer Center
+Thomas J. Dilling, MD, MS § 
+Moffitt Cancer Center
+Jonathan Dowell, MD † 
+UT Southwestern Simmons  
+Comprehensive Cancer Center
+Scott Gettinger, MD † Þ 
+Yale Cancer Center/Smilow Cancer Hospital
+Travis E. Grotz, MD ¶ 
+Mayo Clinic Cancer Center
+Matthew A. Gubens, MD, MS † 
+UCSF Helen Diller Family  
+Comprehensive Cancer Center
+Aparna Hegde, MD † 
+O'Neal Comprehensive Cancer Center at UAB
+Rudy P. Lackner, MD ¶ 
+Fred & Pamela Buffett Cancer Center
+Michael Lanuti, MD ¶ 
+Massachusetts General Hospital Cancer Center
+Jules Lin, MD ¶ 
+University of Michigan Rogel Cancer Center
+Billy W. Loo, Jr., MD, PhD § 
+Stanford Cancer Institute 
+Christine M. Lovly, MD, PhD † 
+Vanderbilt-Ingram Cancer Center
+Renato G. Martins, MD, MPH † 
+Fred Hutchinson Cancer Research Center/ 
+Seattle Cancer Care Alliance
+Erminia Massarelli, MD, PhD, MS † 
+City of Hope National Medical Center
+Daniel Morgensztern, MD † 
+Siteman Cancer Center at Barnes-Jewish Hospital 
+and Washington University School of Medicine
+Thomas Ng, MD ¶ 
+The University of Tennessee  
+Health Science Center
+Gregory A. Otterson, MD † 
+The Ohio State University Comprehensive  
+Cancer Center - James Cancer Hospital  
+and Solove Research Institute
+Jose M. Pacheco, MD † 
+University of Colorado Cancer Center
+Sandip P. Patel, MD ‡ † Þ 
+UC San Diego Moores Cancer Center
+Gregory J. Riely, MD, PhD † Þ  
+Memorial Sloan Kettering Cancer Center
+Jonathan Riess, MD ‡ 
+UC Davis Comprehensive Cancer Center
+Steven E. Schild, MD § 
+Mayo Clinic Cancer Center
+Theresa A. Shapiro, MD, PhD ¥ Þ 
+The Sidney Kimmel Comprehensive  
+Cancer Center at Johns Hopkins 
+Aditi P. Singh, MD † 
+Abramson Cancer Center at the  
+University of Pennsylvania
+James Stevenson, MD † 
+Case Comprehensive Cancer Center/ 
+University Hospitals Seidman Cancer Center 
+and Cleveland Clinic Taussig Cancer Institute
+Alda Tam, MD ф 
+The University of Texas  
+MD Anderson Cancer Center
+Tawee Tanvetyanon, MD, MPH † 
+Moffitt Cancer Center
+Jane Yanagawa, MD ¶ 
+UCLA Jonsson Comprehensive Cancer Center
+Stephen C. Yang, MD ¶ 
+The Sidney Kimmel Comprehensive  
+Cancer Center at Johns Hopkins
+Edwin Yau, MD, PhD † 
+Roswell Park Comprehensive Cancer Center
+NCCN
+Kristina Gregory, RN, MSN, OCN
+Miranda Hughes, PhD
+‡ Hematology/Hematology oncology
+Þ Internal medicine
+† Medical oncology
+≠ Pathology 
+¥ Patient advocacy
+§ Radiation oncology/Radiotherapy
+¶ Surgery/Surgical oncology
+ф  Diagnostic/Interventional  
+radiology
+* Discussion Section Writing 
+Committee
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+Clinical Trials: NCCN believes that 
+the best management for any patient 
+with cancer is in a clinical trial.  
+Participation in clinical trials is 
+especially encouraged. 
+Find an NCCN Member Institution: 
+https://www.nccn.org/home/member-
+institutions.
+NCCN Categories of Evidence and 
+Consensus: All recommendations 
+are category 2A unless otherwise 
+indicated. 
+See NCCN Categories of Evidence  
+and Consensus.
+NCCN Categories of Preference: 
+All recommendations are considered 
+appropriate.
+See NCCN Categories of 
+Preference.
+NCCN Non-Small Cell Lung Cancer Panel Members
+Summary of Guidelines Updates
+Lung Cancer Prevention and Screening (PREV-1)
+Clinical Presentation and Risk Assessment (DIAG-1)
+Initial Evaluation and Clinical Stage (NSCL-1)
+Evaluation and Treatment:
+• Stage IA (T1abc, N0) (NSCL-2)
+• Stage IB (peripheral T2a, N0), Stage I (central T1abc–T2a, N0),  
+Stage II (T1abc–2ab, N1; T2b, N0), Stage IIB (T3, N0), and Stage IIIA (T3, N1) (NSCL-3)
+• Stage IIB (T3 invasion, N0) and Stage IIIA (T4 extension, N0–1; T3, N1; T4, N0–1) (NSCL-5)
+• Stage IIIA (T1–2, N2); Stage IIIB (T3, N2); Separate Pulmonary Nodule(s) (Stage IIB, IIIA, IV) (NSCL-8)
+• Multiple Lung Cancers (N0–1) (NSCL-11)
+• Stage IIIB (T1–2, N3); Stage IIIC (T3, N3) (NSCL-12)
+• Stage IIIB (T4, N2); Stage IIIC (T4, N3); Stage IVA, M1a: Pleural or Pericardial Effusion (NSCL-13)
+• Stage IVA, M1b (NSCL-14)
+Surveillance After Completion of Definitive Therapy (NSCL-16)
+Therapy for Recurrence and Metastasis (NSCL-17)
+Systemic Therapy for Advanced or Metastatic Disease (NSCL-18)
+Principles of Pathologic Review (NSCL-A)
+Principles of Surgical Therapy (NSCL-B)
+Principles of Radiation Therapy (NSCL-C)
+Principles of Image-Guided Thermal Ablation Therapy (NSCL-D)
+Systemic Therapy Regimens for Neoadjuvant and Adjuvant Therapy (NSCL-E)
+Concurrent Chemoradiation Regimens (NSCL-F)
+Cancer Survivorship Care (NSCL-G)
+Principles of Molecular and Biomarker Analysis (NSCL-H)
+Emerging Biomarkers to Identify Novel Therapies for Patients with Metastatic NSCLC (NSCL-I)
+Targeted Therapy or Immunotherapy for Advanced or Metastatic Disease (NSCL-J)
+Systemic Therapy for Advanced or Metastatic Disease (NSCL-K)
+The NCCN Guidelines® are a statement of evidence and consensus of the authors regarding their views of currently accepted approaches to 
+treatment. Any clinician seeking to apply or consult the NCCN Guidelines is expected to use independent medical judgment in the context of individual 
+clinical circumstances to determine any patient’s care or treatment. The National Comprehensive Cancer Network® (NCCN®) makes no representations 
+or warranties of any kind regarding their content, use or application and disclaims any responsibility for their application or use in any way. The NCCN 
+Guidelines are copyrighted by National Comprehensive Cancer Network®. All rights reserved. The NCCN Guidelines and the illustrations herein may not 
+be reproduced in any form without the express written permission of NCCN. ©2021.
+Staging (ST-1)
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATES
+Continued
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+DIAG-A 2 of 3
+• Bullet 1, sub-bullet 2: Diagnostic tools that provide important additional strategies for biopsy include
+Diamond 4 added: Robotic bronchoscopy
+DIAG-A 3 of 3
+• Sub-bullet 1: The least invasive biopsy with the highest yield is preferred as the first diagnostic study
+Diamond 5 added: Rapid on-site evaluation (ROSE), when available, helps to increase diagnostic and molecular yield
+NSCL-4
+• Adjuvant Treatment
+The following clarification added to osimertinib: EGFR exon 19 deletion or L858R
+• Stage IIIA (T1–2, N2; T3, N1); Stage IIIB (T3, N2)
+Margins negative: Sequential chemotherapy
+ ◊  RT (N2 only) removed and replaced with consider RT
+NSCL-4A
+• Footnote w modified: For patients with EGFR mutation-positive exon 19 deletion or L858R who received previous adjuvant chemotherapy or 
+are ineligible to receive platinum-based chemotherapy. (also applies to NSCL-6, NSCL-7)
+NSCL-5
+• Pretreatment Evaluation
+Bullet 5 modified: MRI with contrast of spine + thoracic inlet for superior sulcus lesions abutting the spine, subclavian vessels, or brachial 
+plexus
+NSCL-6
+• Surgical reevaluation including chest CT with or without contrast ± PET/CT
+Footnote z added: MRI with contrast of spine + thoracic inlet for superior sulcus lesions abutting the spine, subclavian vessels, or brachial 
+plexus.
+NSCL-7
+• Concurrent chemoradiation or chemotherapy, followed by surgery
+Treatment modified for margins positive: Reresection and/or RT boost
+Footnote removed: Consider RT boost if chemoradiation is given as initial treatment.
+NSCL-9
+• T1–2, T3 (other than invasive), N2 nodes positive, M0
+Induction chemotherapy ± RT
+ ◊ No apparent progression
+ – Treatment modified: Surgery ± RT (if not given) Consider RT
+ ◊ Progression
+ – Treatment modified: RT (if not givenfeasible) ± chemotherapy
+NSCL-10
+• Footnote bb modified: Multiple studies suggest that next-generation sequencing (NGS) testing with broad gene coverage may allow for 
+unambiguous determination of clonal relatedness among separate lung nodules.
+NSCL-13
+• Pretreatment Evaluation
+Molecular testing changed to Biomarker testing (also applies to NSCL-14)
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATES
+Continued
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+NSCL-18
+• Establish histologic subtype with adequate tissue for molecular testing (consider rebiopsy or plasma testing if appropriate)
+• Footnote nn modified: The NCCN NSCLC Guidelines Panel strongly advises broader molecular profiling with the goal of identifying rare 
+driver mutations for which effective drugs may already be available, or to appropriately counsel patients regarding the availability of clinical 
+trials. Broad molecular profiling is defined as molecular testing that identifies all biomarkers identified in NSCL-19 in either a single assay or 
+a combination of a limited number of assays, and optimally also identifies emerging biomarkers (NSCL-I). Tiered approaches based on low 
+prevalence of co-occurring biomarkers are acceptable.
+NSCL-19
+• Testing Results
+Category added for EGFR S768I, L861Q, and/or G719X mutation positive
+Language for PD-L1 categories changed from molecular markers to molecular biomarkers
+NSCL-20
+• Footnote tt modified: If systemic therapy regimen contains an immune checkpoint inhibitor, physicians should be aware of the long half-
+life of such drugs and data reporting adverse events when combining checkpoint inhibitors with using osimertinib in combination with or 
+following checkpoint inhibitors.
+NSCL-21
+• Footnote ww modified: Consider a biopsy at time of progression to rule out SCLC transformation and evaluate mechanisms of resistance. 
+(also applies to NSCL-22)
+• Footnote yy modified: The data in the second-line setting suggest that PD-1/PD-L1 inhibitor monotherapy is less effective, irrespective of PD-
+L1 expression, in EGFR exon 19 deletion or L858R, ALK+ NSCLC. (also applies to NSCL-22, NSCL-27, NSCL-28)
+NSCL-22
+• T790M testing: category 1 added
+• Subsequent therapy specifically noted for T790M-
+• Footnote zz modified: Plasma or tissue-based testing via broad molecular profiling should be considered at progression, on EGFR TKIs 
+for the T790M mutation and other genomic resistance mechanisms. If plasma-based testing is negative, tissue-based testing with rebiopsy 
+material is strongly recommended. Practitioners may want to consider scheduling the biopsy concurrently with plasma testing referral. 
+NSCL-23
+• New page added with treatment recommendations for EGFR S768I, L861Q, and/or G719X
+NSCL-24
+• Footnotes ccc and eee modified: high-risk added (also applies to NSCL-25, NSCL-37, NSCL-J)
+NSCL-27
+• Lorlatinib added for ALK G1202R
+• Limited metastases: Therapy for multiple lesions added as an option (also applies to NSCL-28, NSCL-30)
+• Footnote zz added: Plasma or tissue-based testing via broad molecular profiling should be considered at progression for genomic 
+resistance mechanisms. If plasma-based testing is negative, tissue-based testing with rebiopsy material is strongly recommended. 
+Practitioners may want to consider scheduling the biopsy concurrently with plasma testing referral. (also applies to NSCL-28, NSCL-30)
+NSCL-28
+• Subsequent Therapy: Lorlatinib added as a treatment option
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATES
+Continued
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+NSCL-30
+• New page added for more detailed treatment options after progression on entrectinib, crizotinib, or ceritinib
+NSCL-31
+• First-line Therapy; Useful in Certain Circumstances
+Dabrafenib added as a treatment option 
+Footnote hhh modified: Single-agent vemurafenib or dabrafenib are is a treatment options if the combination of dabrafenib + trametinib is 
+not tolerated.
+• Subsequent Therapy
+A link added to additional subsequent therapy options (NSCL-K 4 of 5) (also applies to NSCL-32, NSCL-33, NSCL-34)
+NSCL-34
+• First-line Therapy; Useful in Certain Circumstances
+Vandetanib removed as a treatment option.
+NSCL-35
+• Footnote jjj added: For patients who require an urgent start to therapy but molecular testing is pending, consider holding immunotherapy for 
+one cycle, unless confirmed that no driver mutations are present. (also applies to NSCL-36)
+NSCL-A 4 of 4
+• Immunohistochemistry
+Bullet 1; sub-bullet 1 modified: NCAM (CD56), chromogranin, and synaptophysin, and INSM1 are used to identify neuroendocrine tumors in 
+cases in which morphologic suspicion of neuroendocrine differentiation exists.
+NSCL-B 2 of 4
+• Margins and Nodal Assessment
+Bullet 5 modified: Patients with pathologic stage II or greater, or high-risk factors, should be referred to medical oncology for evaluation.
+NSCL-B 3 of 4
+• The Role of Surgery in Patients with Stage IIIA NSCLC
+Bullet 5 modified: Neoadjuvant chemoradiotherapy is used in 50%one-third of the NCCN Member Institutions, while neoadjuvant 
+chemotherapy is used in the other 50%two-thirds.
+• Data from the updated questionnaire (2021) included regarding the approach to patients with N2 disease at the NCCN Member Institutions
+All NCCN institutions treat select N2 patients with multimodality therapy that includes surgery.
+The majority of NCCN institutions prefer EBUS for initial mediastinal staging, reserving mediastinoscopy for possible restaging.
+The majority of institutions do not pathologically restage mediastinal lymph nodes after induction therapy and prior to surgery.
+All NCCN institutions consider surgery for single-station non-bulky N2 disease.
+Approximately half of the institutions consider surgery for single-station bulky disease, 39% for multi-station non-bulky disease, and 21% 
+for multi-station bulky disease.
+Two-thirds of institutions prefer induction chemotherapy; one-third prefer chemoradiation.
+The majority require at least stable disease after induction, but do not require radiologic or pathologic response prior to surgery.
+Roughly a half would consider pneumonectomy after induction chemotherapy, but less than a quarter would consider pneumonectomy 
+after chemoradiation.
+Approximately three-fourths would give adjuvant RT for positive residual N2 disease, but only approximately one-fourth would give RT for  
+N2 pathologic complete response.
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATES
+Continued
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+NSCL-C 1 of 11
+• General Principles
+Bullet 2 and Bullet 4: definitive changed to definitive/consolidative
+NSCL-C 3 of 11
+• Early-Stage NSCLC
+Bullet 1:  
+SABR (also known as SBRT) is recommended for patients who are medically inoperable or who refuse to have surgery after thoracic 
+surgery evaluation. SABR has achieved good primary tumor control rates and overall survival, and higher than conventionally fractionated 
+radiotherapy, although not proven equivalent to lobectomy.  
+replaced with  
+SABR (also known as SBRT) has achieved good primary tumor control rates and overall survival, higher than conventionally fractionated 
+radiotherapy. Although SABR is not proven equivalent to lobectomy, some prospective series have demonstrated similar overall and 
+cancer-specific survival.
+Bullet 5 added: Close follow-up and salvage therapy for isolated local and/or locoregional recurrence after SABR have been shown to 
+improve overall survival in a large retrospective study.
+NSCL-C 4 of 11 
+• Conventionally Fractionated RT for Locally Advanced NSCLC
+Bullet 2; sub-bullet 1; last sentence modified: A meta-analysis demonstrated improved survival with accelerated fractionation RT regimens, 
+and individualized accelerated RT dose intensification is now being analyzed in a randomized trial (RTOG 1106) and RTOG 1106 found that 
+PET-based individualized accelerated RT dose intensification potentially improved local control but not overall survival.
+NSCL-C 5 of 11
+• Advanced/Metastatic NSCLC (Stage IV)
+Bullet 2: definitive changed to definitive/consolidative
+Bullet 6 added: A pooled analysis of two randomized trials indicated that adding radiotherapy to a certain immune checkpoint inhibitor 
+(anti-PD-1) significantly increased responses and clinical outcomes in patients with metastatic non-small cell lung cancer. Larger phase III 
+randomized studies are ongoing.
+NSCL-C 7 of 11
+• Table 2. Commonly Used Doses for SABR
+Example Indications
+ ◊ Definition of small tumors (<2 cm) removed
+ ◊ Distance from chest wall removed 
+NSCL-C 8 of 11
+• Table 4; footnote ** added: This regimen includes one dose per week, as the phase 3 study included day 1 & 8 treatments.
+• Table 5; reference removed: Al-Halabi H, et al. A contralateral esophagus-sparing technique to limit severe esophagitis associated with 
+concurrent high-dose radiation and chemotherapy in patients with thoracic malignancies. Int J Radiat Oncol Biol Phys 2015;92:803-810.
+• Table 5; reference added: Kamran SC, et al. JAMA Oncol 2021;7:910-914.
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATES
+Continued
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+NSCL-C 9 of 11 through NSCL-C 11 of 11
+• Reference 3: Sejpal S, et al. Early findings on toxicity of proton beam therapy with concurrent chemotherapy for non-small cell lung cancer. 
+Cancer 2011;117:3004-3013. 
+replaced with 
+Gjyshi O, et al. Toxicity and survival after intensity-modulated proton therapy versus passive scattering proton therapy for NSCLC. J Thorac 
+Oncol 2021;16:269-277.
+• Reference 30 added: Chang JY, et al. Stereotactic ablative radiotherapy for operable stage I non-small-cell lung cancer (revised STARS): 
+long-term results of a single-arm, prospective trial with prespecified comparison to surgery. Lancet Oncol 2021;22:1448-1457.
+• Reference 34 added: Brooks ED, et al. Association of long-term outcomes and survival with multidisciplinary salvage treatment for local and 
+regional recurrence after stereotactic ablative radiotherapy for early-stage lung cancer. JAMA Netw Open 2018;1:e181390.
+• Reference 86: Schild SE, et al. Toxicity related to radiotherapy dose and targeting strategy: a pooled analysis of cooperative group trials of 
+combined modality therapy for locally advanced non-small cell lung cancer. J Thorac Oncol 2019;14:298-303.  
+replaced with 
+Schild SE, et al. Exploring radiotherapy targeting strategy and dose: a pooled analysis of cooperative group trials of combined modality 
+therapy for stage III NSCLC. J Thorac Oncol 2018;13:1171-1182.
+• Reference 88 added: Kong F-M S, et al. NRG-RTOG 1106/ACRIN 6697: A phase IIR trial of standard versus adaptive (mid-treatment PET-
+based) chemoradiotherapy for stage III NSCLC—Results and comparison to NRG-RTOG 0617 (non-personalized RT dose escalation). J Clin 
+Oncol 2021;39:8548-8548.
+• Reference 103 added: Theelen WSME, et al. Pembrolizumab with or without radiotherapy for metastatic non-small-cell lung cancer: a polled 
+analysis of two randomised trials. The Lancet 2021;9:467-475.
+NSCL-D
+• Evaluation
+Bullet 3 modified: If an interventional radiologist or center is uncertain about the feasibility or safety of IGTA or the use of IGTA for radiation 
+failure, consider obtaining an additional interventional radiology opinion from a high-volume specialized center.
+• Ablation for NSCLC
+Bullet 3 added: Like surgery, pneumothorax may occur after IGTA, particularly if multiple lesions are treated in a single session.  
+Pneumothorax has been reported in 18.7%–45.7% of IGTA cases. Self-limited pneumothorax, not requiring chest tube placement, is an 
+expected event and not considered a complication unless escalation of care is required. In 20.7% of IGTA cases, chest tube insertion may 
+be required.
+Reference 10 added: Genshaft SJ, Suh RD, Abtin F, et al. Society of Interventional Radiology Quality Improvement Standards on 
+Percutaneous Ablation of Non-Small Cell Lung Cancer and Metastatic Disease to the Lungs. J Vasc Interv Radiol 2021;32:1242.e1-1242.e10.
+NSCL-E 1 of 2
+• Previous Adjuvant Chemotherapy or Ineligible for Platinum-Based Chemotherapy
+Osimertinib for patients with completely resected stage IIB-IIIA or high risk stage IB-IIIA EGFR mutation-positive (exon 19 deletion, L858R) 
+NSCLC who received previous adjuvant chemotherapy or are ineligible to receive platinum-based chemotherapy.
+NSCL-F 1 of 2
+• Consolidation Immunotherapy for Patients with Unresectable Stage II/III NSCLC, PS 0–1, and No Disease Progression After 2 or More Cycles 
+of Definitive Concurrent Chemoradiation
+• Footnote § modified:  If using durvalumab, an additional 2 cycles of chemotherapy is not recommended, if patients have not received full-
+dose chemotherapy concurrently with RT.
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+UPDATES
+Continued
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+NSCL-F 2 of 2
+• Reference 6: Curran WJ Jr, Paulus R, Langer CJ, et al. Sequential vs. concurrent chemoradiation for stage III non-small cell lung cancer: 
+randomized phase III trial RTOG 9410. J Natl Cancer Inst 2011;103:1452-1460.  
+replaced with  
+Rusch VW, Giroux DJ, Kraut MJ, et al. Induction chemoradiation and surgical resection for superior sulcus non-small-cell lung carcinomas: 
+long-term results of Southwest Oncology Group Trial 9416 (Intergroup Trial 0160). J Clin Oncol 2007;25:313-318.
+• Reference removed: Antonia SJ, Villegas A, Daniel D, et al. Overall survival with durvalumab after chemoradiotherapy in stage III NSCLC. N 
+Engl J Med 2018;379:2342-2550.
+• Reference 8 added: Faivre-Finn C, Vicente D, Kurata T, et al. Four-year survival with durvalumab after chemoradiotherapy in stage III NSCLC-
+an update from the PACIFIC trial. J Thorac Oncol 2021;16:860-867.
+NSCL-H 1 of 7
+• Bullet 3: Tissue Specimen Acquisition and Management
+Sub-bullet 2 modified: A major limitation in obtaining tissue molecular testing results for NSCLC occurs when minimally invasive 
+techniques are used to obtain samples.
+Sub-bullet 3 modified: When tissue is minimal, laboratories should deploy techniques to maximize tissue for molecular and ancillary 
+testing, including dedicated histology protocols for small biopsies, including “up-front” slide sectioning for diagnostic and predictive 
+testing. Peripheral blood (plasma circulating tumor DNA) can be a surrogate sample (NSCL-H 7 of 7).
+NSCL-H 2 of 7
+• Testing Methodologies
+New entry under diamond 2: Broad molecular profiling is defined as molecular testing that identifies all biomarkers identified in NSCL-19 
+in either a single assay or a combination of a limited number of assays, and optimally also identifies emerging biomarkers (NSCL-I). Tiered 
+approaches based on low prevalence of co-occurring biomarkers are acceptable.
+Diamond 5 added: Any method that interrogates sequences other than a subset of highly specific alterations (eg, NGS, Sanger) has the 
+potential to identify variants of uncertain significance (VUS). Any variant classified as a VUS, even if in a gene in which other variants are 
+clinically actionable, should not be considered as a basis for targeted therapy selection.
+Diamond removed: IHC is specifically utilized for some specific analytes, and can be a useful surrogate or screening assay for others. 
+NSCL-H 3 of 7
+• Bullet 1: Molecular Targets for Analysis
+Sub-bullet 2: EGFR Gene Mutations
+ ◊ Diamond 2 updated: Molecular testing for EGFR mutations to should be performed when adjuvant TKI therapy is a consideration for 
+NSCLC stage IB-IIIA. While the testing process may be technically easier on a resected specimen, initial diagnostic biopsy specimens are 
+also acceptable for testing for this indication. on diagnostic biopsy or surgical resection sample to ensure the EGFR mutation results are 
+available for adjuvant treatment decisions for patients with stage IIB-IIIA or high risk stage IB-IIA NSCLC.
+ ◊ Diamond 3 modified: Many of the less commonly observed alterations in EGFR, which cumulatively account for ~10% of EGFR-mutation 
+positive NSCLC (ie, exon 19 insertions, p.L861Q, p.G719X, p.S768I) are also associated with responsiveness to certain EGFR TKIs 
+therapy, such as osimertinib and afatinib, and should be considered on a mutation-specific basis, when possible although the number of 
+studied patients is lower.
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
+NCCN Guidelines Version 1.2022
+Non-Small Cell Lung Cancer
+Version 1.2022, 12/07/21 © 2021 National Comprehensive Cancer Network® (NCCN®), All rights reserved. NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.
+NCCN Guidelines Index
+Table of Contents
+Discussion
+Continued
+UPDATES
+Updates in Version 1.2022 of the NCCN Guidelines for Non-Small Cell Lung Cancer from Version 7.2021 include:
+NSCL-H 3 of 7
+• Bullet 1: Molecular Targets for Analysis
+Sub-bullet 2: EGFR Gene Mutations
+ ◊ Diamond 4; entry modified: If EGFR p.T790M is observed identified in the absence of prior EGFR TKI therapy, genetic counseling and 
+possible germline genetic testing are warranted. Identification of germline EGFR p.T790M confers a high risk for lung cancer regardless 
+of smoking status.
+ ◊ Diamond 5 modified: EGFR exon 20 (EGFRex20) mutations (other than EGFR p.T790M) are a heterogeneous group, some of which are 
+responsive to targeted therapy and that require detailed knowledge of the specific alteration.
+ – Sub-bullet 1 modified: These are generally associated with lack of response to first-, second-, and third-generation EGFR TKI 
+therapy, with select exceptions: p.A763_Y764insFQEA is associated with sensitivity to TKI therapy and p.A763_Y764insLQEA may be 
+associated with sensitivity to first- and third-generation TKI therapy.
+ – Sub-bullet 2 added: EGFRex20 insertions/duplications are associated with responsiveness to specific targeted subsequent therapy 
+agents. The most commonly represented EGFRex20 insertions/duplications in the clinical studies have been insASV, insSVD, and 
+insNPH, although a wide spectrum of other alterations were included. There is currently no evidence that the specific alteration type 
+impacts the probability of responsiveness to this class of kinase inhibitor.
+ – Sub-bullet 3 modified: Because some EGFRex20 mutations are or may be sensitive to first- and third-generation inhibitors, For this 
+reason, the specific sequence of EGFRex20 insertion mutations isremains important., and Some assays will identify the presence of an 
+EGFRex20 insertion without specifying the sequence. In this scenario, and additional testing to further clarify the EGFRex20 insertion 
+ismay be indicated for therapy selection.
+ – Sub-bullet 4 added: Targeted PCR-based approaches for detection of EGFR variants may under-detect EGFRex20 insertion events; 
+therefore, NGS-based strategies are preferred.
+ ◊ Diamond removed, as content added to NSCL-H 2 of 7: As use of NGS testing increases, additional EGFR variants are increasingly 
+identified; however, the clinical implications of individual alterations are unlikely to be well established.
+NSCL-H 5 of 7
+• Bullet 1: Molecular Targets for Analysis
+Sub-bullet 1: KRAS point mutations
+ ◊ Diamond 5 added: The presence of KRAS p.G12C is associated with responsiveness to an oral KRAS G12C inhibitor used for subsequent 
+therapy, which was designed specifically for this mutation. Responsiveness to this class of inhibitor has not been prospectively 
+evaluated with mutations other than KRAS p.G12C.
+ ◊ Diamond 6 added: Testing methodologies: NGS, real-time PCR, and Sanger sequencing (ideally paired with tumor enrichment) are the 
+most commonly deployed methodologies for examining KRAS mutation status.
+Sub-bullet 2: MET exon 14 skipping variants
+ ◊ Diamond 3 modified: Testing Methodologies: NGS-based testing is the primary method for detection of METex14 skipping events; RNA-
+based NGS may have improved demonstrating improvement in detection. 
+Printed by Arihant Jain on 1/17/2022 7:36:27 AM. For personal use only. Not approved for distribution. Copyright © 2022 National Comprehensive Cancer Network, Inc., All Rights Reserved.
